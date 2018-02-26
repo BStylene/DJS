@@ -1,2 +1,0 @@
-# DJS
-Test Angular

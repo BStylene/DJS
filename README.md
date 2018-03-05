@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/BStylene/DJS/badge.svg?branch=master)](https://coveralls.io/github/BStylene/DJS?branch=master)
+[![Build Status](https://travis-ci.org/BStylene/DJS.svg?branch=master)](https://travis-ci.org/BStylene/DJS)
+
 # DJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
